@@ -1,0 +1,15 @@
+﻿  AdvectionVelocityCalc.cpp
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(51,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(52,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(52,40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(54,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\AdvectionVelocityCalc.cpp(54,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matrix.cpp
+  main.cpp
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\main.cpp(31,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\main.cpp(32,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\main.cpp(33,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\lench\source\repos\NMC_Thesis\NMC_Thesis\main.cpp(68,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  NMC_Thesis.vcxproj -> C:\Users\lench\source\repos\NMC_Thesis\x64\Debug\NMC_Thesis.exe
